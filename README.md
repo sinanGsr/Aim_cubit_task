@@ -1,16 +1,10 @@
-# flutter_aim_cubit_task
+Flutter AIM Cubit Task
+This is a Flutter project that implements authentication using Cubit for state management and Firebase as the backend service.
 
-A new Flutter project.
+Features
+State Management: The project uses Cubit for managing state.
+Authentication: Firebase is used to handle user authentication, including login and signup.
+Pre-configured User: You can use the following credentials to test the authentication flow:
+Email: alpha@gmail.com
+Password: 12345678
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
